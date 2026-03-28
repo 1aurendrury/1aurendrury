@@ -1,5 +1,5 @@
 # 💫 About Me:
-Incoming SWE @ Fidelity | BSCS Graduate @ Northeastern | Prev SWE @ Claim<br><br>For more, visit [https://laurendrury.com/](laurendrury.com)
+Incoming SWE @ Fidelity | BSCS Graduate @ Northeastern | Prev SWE @ Claim and WMC<br><br>For more, visit [https://laurendrury.com/](laurendrury.com)
 
 
 ## 🌐 Socials:
