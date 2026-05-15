@@ -1,5 +1,5 @@
 # 💫 About Me:
-Incoming SWE @ Fidelity | BSCS Graduate @ Northeastern | Prev SWE @ Claim and WMC<br><br>For more, visit [laurendrury.com](https://laurendrury.com/)
+Full Stack Engineer @ Fidelity | BSCS Graduate @ Northeastern | Prev SWE @ Claim and WMC<br><br>For more, visit [laurendrury.com](https://laurendrury.com/)
 
 
 ## 🌐 Socials:
